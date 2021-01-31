@@ -31,11 +31,7 @@
 			} else {
 				$(this).addClass('active');	
 			}
-
-			
-			
 		});
-
 	};
 
 	var testimonialCarousel = function(){
@@ -74,8 +70,6 @@
 		    event.preventDefault();
 		    return false;
 		});
-
-
 	};
 
 	// Reflect scrolling in navigation
